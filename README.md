@@ -1,38 +1,25 @@
-# create-svelte
+# ORCA <img src="./static/logo512.png" style="width: 1em"/>
+> Open Repository for CSS Artworks
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Apart from being killer whale, orca is a design gallery of various web components like buttons, navbars etc. contributed by developers from everywhere. 
 
-## Creating a project
+This is beginner repository for developers who are completely new to open source and are often intimidated by huge codebases because its something I personally felt back when I started coding initially. This will guide you how to study codebases, ways to contribute, ask questions, create proper pull requests and issues, and most importantly, let you have a taste of open source development.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Running the project ⛏️
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've cloned the project on your local system, you can run the server locally 
 
 ```bash
-npm run dev
+# install dependencies
+npm install
 
-# or start the server and open the app in a new browser tab
+# start the server and open the tab in new browser tab
 npm run dev -- --open
 ```
 
-## Building
+## Contributing
 
-To create a production version of your app:
+The code editors are ready, the server is running and now it's time for coding. Head on to the Contributing Wiki for an in depth guide as to how we will proceed with our open source journey!
 
-```bash
-npm run build
-```
+If you are somewhat familiar and just need a quick overview, dive right in the [Contributing Quickguide](./Contributing.md) to start creating pull requests
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
