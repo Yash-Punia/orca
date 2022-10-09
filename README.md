@@ -1,5 +1,5 @@
 # ORCA <img src="./static/logo512.png" style="width: 1em"/>
-> Open Repository for CSS Artworks
+> [Open Repository for CSS Artworks](https://orca-designs.web.app/)
 
 Apart from being killer whale, orca is a design gallery of various web components like buttons, navbars etc. contributed by developers from everywhere. 
 
@@ -21,5 +21,5 @@ npm run dev -- --open
 
 The code editors are ready, the server is running and now it's time for coding. Head on to the Contributing Wiki for an in depth guide as to how we will proceed with our open source journey!
 
-If you are somewhat familiar and just need a quick overview, dive right in the [Contributing Quickguide](./Contributing.md) to start creating pull requests
+If you are somewhat familiar and just need a quick overview, dive right in the [Contributing Quickguide](./CONTRIBUTING.md) to start creating pull requests
 
