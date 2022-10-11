@@ -19,7 +19,7 @@ npm run dev -- --open
 
 ## Contributing
 
-The code editors are ready, the server is running and now it's time for coding. Head on to the Contributing Wiki for an in depth guide as to how we will proceed with our open source journey!
+The code editors are ready, the server is running and now it's time for coding. Head on to the [Contributing Wiki](https://github.com/Yash-Punia/orca/wiki) for an in depth guide as to how we will proceed with our open source journey!
 
 If you are somewhat familiar and just need a quick overview, dive right in the [Contributing Quickguide](./CONTRIBUTING.md) to start creating pull requests
 
