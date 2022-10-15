@@ -1,12 +1,11 @@
 <script>
-	import buttons from '$lib/components/designs/buttons';
+	import Buttons from '$lib/components/core/buttons.svelte';
+	import Navbars from '$lib/components/core/navbars.svelte';
+	import { state } from '$lib/stores/global'
 </script>
 
-<div class="w-2/3 mx-auto">
-	<h1 class="font-body text-2xl border-b-4 w-fit border-black mb-4 rounded-md">Buttons</h1>
-	<div class="grid grid-cols-3 place-items-center gap-4">
-		{#each buttons as button}
-			<svelte:component this={button}/>
-		{/each}
-	</div>
-</div>
+{#if $state == 'buttons'}
+	<Buttons />
+{:else if $state == 'navbars'}
+	<Navbars />
+{/if}
