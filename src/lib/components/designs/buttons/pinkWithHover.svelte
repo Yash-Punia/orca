@@ -10,7 +10,7 @@
           cursor: pointer;
           position: relative;
           transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;   
-          " >Button</button>
+          " >Pink Hover</button>
 by Swastik Sharma
 </div>
 
