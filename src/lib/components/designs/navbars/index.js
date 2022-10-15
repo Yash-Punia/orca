@@ -1,6 +1,9 @@
 import PlainBlue from './plainBlue.svelte';
+import PlainGreen from './plainGreen.svelte';
+
 const navbars = [
-    PlainBlue
+    PlainBlue,
+    PlainGreen
 ]
 
 export default navbars;
