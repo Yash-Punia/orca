@@ -3,7 +3,7 @@
 </script>
 
 <div class="w-2/3 mx-auto py-4">
-	<div class="flex flex-col">
+	<div class="flex flex-col gap-4">
 		{#each navbars as navbar}
 			<svelte:component this={navbar}/>
 		{/each}
